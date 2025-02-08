@@ -25,4 +25,4 @@ Encrypted Text: KHOOR
 
 # **Technologies Used**
 
-Java
+Python
